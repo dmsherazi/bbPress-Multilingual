@@ -1,0 +1,10 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">forum</custom-type>
+		<custom-type translate="1">topic</custom-type>
+		<custom-type translate="1">reply</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">topic-tag</taxonomy>
+	</taxonomies>
+</wpml-config>
